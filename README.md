@@ -112,23 +112,4 @@ func _ready():
 如果你遇到问题或有任何建议：
 
 1. 查看[详细文档](docs/)
-2. 搜索[已存在的 issues](https://github.com/Liweimin0512/godot_core_system/issues)
-3. 创建新的[issue](https://github.com/Liweimin0512/godot_core_system/issues/new)
 
-### 社区交流
-
-- 加入我们的 [Discord 社区](https://discord.gg/V5nuzC2BcJ)
-- 关注我们的 [itch.io](https://godot-li.itch.io/) 主页
-- 为项目点亮 ⭐ 以示支持！
-
-## 🙏 致谢
-
-- 感谢所有为项目做出贡献的开发者！
-- 感谢[老李游戏学院](https://wx.zsxq.com/group/28885154818841)的每一位同学！
-
----
-
-<div align="center">
-  <strong>由 老李游戏学院 用 ❤️ 构建</strong><br>
-  <sub>让游戏开发变得更简单</sub>
-</div>
